@@ -1,0 +1,33 @@
+* {
+	font-family: 'Sorts Mill Goudy', italic;
+}
+html {
+  background: url("../images/bar.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+ul {
+	text-align: left;
+}
+
+select, button {
+	background-color: #4f3317;
+	color: white;
+	font-size: .8rem;
+}
+
+section {
+	margin: 7rem auto 0 auto;
+	text-align: center;
+	color: white;
+	padding: 0.5rem;
+	background: rgba(10, 10, 10, 0.7);
+	border-radius: 10px;
+	width: 90%;
+	max-width: 22rem;
+	min-width: 15rem;
+}
+
